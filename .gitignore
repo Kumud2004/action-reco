@@ -1,0 +1,14 @@
+__pycache__/
+.ruff_cache/
+
+.venv/
+.agents/
+personal/
+human-action-recognition/
+data/
+models/
+
+nturgbd_skeletons_s001_to_s017.zip
+.env
+helper.txt
+rough.py
